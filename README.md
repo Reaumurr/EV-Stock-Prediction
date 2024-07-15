@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align='center'>
-    <h1><b>FlightBuddy</b></h1>
+    <h1><b>StocKnock</b></h1>
     <img src='pic/companyLogo.png'/>
     <br><br>
     <p>
