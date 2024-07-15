@@ -107,7 +107,7 @@ docker run -it stocknock-app
 3. **Environment Setup**  
 - Navigate to the cloned directory:
   ```
-  cd V-Stock-Prediction
+  cd EV-Stock-Prediction
   ```
 - Set up a virtual environment (optional but recommended):
   ```
