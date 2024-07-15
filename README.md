@@ -76,7 +76,7 @@ Provide alerts for underperforming stocks with negative sentiment, guiding users
 
 To get started with FlightBuddy, ensure you have the following prerequisites:
 
-- **Dataset**: Yahoo! Finance Accessible [here](https://www.kaggle.com/datasets/drlove2002/tesla-news-from-tweeter).
+- **Dataset**: Yahoo! Finance and Tesla News Sentiment Accessible [here](https://www.kaggle.com/datasets/drlove2002/tesla-news-from-tweeter).
 - **Python**: Version 3.9.18 or later.
 
 ### **Environment Configuration**  
