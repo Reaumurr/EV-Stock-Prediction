@@ -63,10 +63,10 @@ Through this project, we seek to revolutionize the way investors approach the EV
 
 The primary goal of StocKnock is to enhance investment decision-making in the electric vehicle (EV) sector by providing personalized stock predictions based on sentiment analysis of Tesla news articles on Twitter. Specifically, StocKnock aims to:
 
-Analyze sentiment from Twitter discussions regarding Tesla news to classify them as positive, neutral or negative, with accuracy being the key performance metric.
-Predict stock movements for various EV manufacturers based on identified sentiment trends, offering users tailored investment insights.
-Recommend potential investment opportunities in EV stocks that exhibit strong positive sentiment, helping investors capitalize on favorable market conditions.
-Provide alerts for underperforming stocks with negative sentiment, guiding users toward better investment alternatives in the EV sector.
+* Analyze sentiment from Twitter discussions regarding Tesla news to classify them as positive, neutral or negative, with accuracy being the key performance metric.
+* Predict stock movements for various EV manufacturers based on identified sentiment trends, offering users tailored investment insights.
+* Recommend potential investment opportunities in EV stocks that exhibit strong positive sentiment, helping investors capitalize on favorable market conditions.
+* Provide alerts for underperforming stocks with negative sentiment, guiding users toward better investment alternatives in the EV sector.
 
 <br />
 
