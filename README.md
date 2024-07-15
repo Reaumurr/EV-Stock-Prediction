@@ -174,7 +174,6 @@ By following these setup instructions, you'll be able to replicate the StocKnock
 The application is deployed on Hugging Face Spaces. Access it using the following link:
 [StocKnock on Hugging Face](https://huggingface.co/spaces/Reaumur/StocKnock)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
