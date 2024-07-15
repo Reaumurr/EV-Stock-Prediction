@@ -74,7 +74,7 @@ The primary goal of StocKnock is to enhance investment decision-making in the el
 
 ## 🗒️ **Setup and Installation**
 
-To get started with FlightBuddy, ensure you have the following prerequisites:
+To get started with StocKnock, ensure you have the following prerequisites:
 
 - **Dataset**: Yahoo! Finance and Tesla News Sentiment Accessible [here](https://www.kaggle.com/datasets/drlove2002/tesla-news-from-tweeter).
 - **Python**: Version 3.9.18 or later.
@@ -89,11 +89,11 @@ Follow these steps to set up the project:
    Clone this repository to your local machine. Choose the method that best suits your setup:
    - **HTTPS**:
      ```
-     git clone https://github.com/FTDS-assignment-bay/p2-final-project-sarjana-kakek/
+     git clone https://github.com/Reaumurr/EV-Stock-Prediction.git
      ```
    - **SSH**:
      ```
-     git clone git@github.com:FTDS-assignment-bay/p2-final-project-sarjana-kakek.git
+     git clone git@github.com:Reaumurr/EV-Stock-Prediction.git
      ```
 
 2. **Compose Docker Containers (Optional)**  
@@ -107,7 +107,7 @@ docker run -it stocknock-app
 3. **Environment Setup**  
 - Navigate to the cloned directory:
   ```
-  cd p2-final-project-sarjana-kakek
+  cd V-Stock-Prediction
   ```
 - Set up a virtual environment (optional but recommended):
   ```
@@ -130,9 +130,9 @@ python app.py
 After starting the application, you can access and interact with it as specified in your project documentation.
 
 ### **Additional Resources**  
-For further exploration or modifications, access the full project documentation and source code on the [GitHub repository](https://github.com/FTDS-assignment-bay/p2-final-project-sarjana-kakek/).
+For further exploration or modifications, access the full project documentation and source code on the [GitHub repository](https://github.com/Reaumurr/EV-Stock-Prediction).
 
-By following these setup instructions, you'll be able to replicate the FlightBuddy project and explore its functionalities related to analyzing airline review sentiments.
+By following these setup instructions, you'll be able to replicate the StocKnock project and explore its functionalities related to analyzing airline review sentiments.
 
 ---
 
