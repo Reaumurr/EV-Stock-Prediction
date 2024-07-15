@@ -1,0 +1,11 @@
+streamlit
+pandas
+yfinance
+joblib
+vaderSentiment
+numpy
+plotly
+Pillow
+scikit-learn
+statsmodels
+transformers
