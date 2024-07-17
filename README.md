@@ -167,6 +167,9 @@ By following these setup instructions, you'll be able to replicate the StocKnock
 - eda_all.ipynb: Contains the Exploratory Data Analysis.
 - stock_predict.ipynb: Notebook for developing the Regression, Time Series, and NLP model, including training, preprocessing and inference.
 - twitter_sentiment.ipynb: Notebook for developing NLP model, including training, preprocessing and inference.
+- NIO.ipynb: Notebook for developing Time Series Model
+- NVDIA.ipynb: Notebook for developing Time Series Model
+- TSLA.ipynb: Notebook for developing Time Series Model
 
 <br />
 
